@@ -1,0 +1,13 @@
+[6384:8440:1014/212251.450:INFO:components\enterprise\browser\controller\chrome_browser_cloud_management_controller.cc:206] No machine level policy manager exists.
+[7308:8056:1014/212252.240:ERROR:ui\gl\direct_composition_support.cc:616] AMD VideoProcessorGetOutputExtension failed: Error no especificado (0x80004005)
+[6384:8440:1014/212259.043:INFO:CONSOLE:113] "Event handler of 'x-storagemutated-1' event must be added on the initial evaluation of worker script.", source: https://static.whatsapp.net/rsrc.php/v4/yj/r/C6CqYG6Xfih.js (113)
+[6384:6460:1014/212305.484:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+[6384:6460:1014/212330.037:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+[6384:8440:1014/212408.807:INFO:CONSOLE:77] "ErrorUtils caught an error:
+
+lidInfraAccount-waweb-adl-bulk-get-device-record
+
+Subsequent non-fatal errors won't be logged; see https://fburl.com/debugjs. [object Object]", source: https://static.whatsapp.net/rsrc.php/v4/yF/r/Wo6Tlpr1Ad8.js (77)
+[6384:6460:1014/212414.705:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+[6384:8440:1014/212505.112:INFO:CONSOLE:22] "Warning: TT: undefined function: 32", source: https://web.whatsapp.com/static_resources/webworker/pdf-worker/ (22)
+[6384:8440:1014/212529.255:INFO:CONSOLE:22] "Warning: TT: undefined function: 32", source: https://web.whatsapp.com/static_resources/webworker/pdf-worker/ (22)
